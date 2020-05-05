@@ -1,8 +1,10 @@
 # Página de prueba para realizar pagos con Culqi 
 
 ### Uso de librerías: 
+- jQuery
 - Parsley para la validación del formulario
 - Select2 para los combobox estilizados
+- Culqi Checkout v3 ( https://checkout.culqi.com/js/v3 )
 
 ### Issues
 
