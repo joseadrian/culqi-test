@@ -80,7 +80,7 @@
 			if (Culqi.token) {
 
 				    console.log("Token obtenido");
-            resultdiv('Token obtenido ' + JSON.stringify(Culqi.token));
+            resultdiv('Token obtenido, ahora se puede hacer el pago. ' + '<pre>'+JSON.stringify(Culqi.token, null, 4)+'</pre>');
 			} else if (Culqi.order) {
 				 alert("Order confirmada");
                  console.log(Culqi.order);
