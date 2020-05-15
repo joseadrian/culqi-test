@@ -6,7 +6,7 @@
 
 # [Ejemplo usando su documentación](https://joseadrian.github.io/culqi-test)
 
-> Usando librerías
+> Usando librerías. [Documentación](https://www.culqi.com/docs/#/pagos/checkout)
 
 ### Uso de librerías: 
 - jQuery
