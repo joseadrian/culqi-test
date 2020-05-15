@@ -1,4 +1,12 @@
-# [Página de prueba para realizar pagos con Culqi](https://joseadrian.github.io/culqi-test/culqi-efectivo/index.html)
+# [Ejemplo enviado por soporte](https://joseadrian.github.io/culqi-test/culqi-efectivo/index.html)
+
+> Modificado para ser servidor por `Github Pages`. [Repositorio](https://github.com/brayancruces/culqi-efectivo-example)
+
+----
+
+# [Ejemplo usando su documentación](https://joseadrian.github.io/culqi-test)
+
+> Usando librerías
 
 ### Uso de librerías: 
 - jQuery
